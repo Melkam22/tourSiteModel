@@ -591,6 +591,15 @@ h6 {
   border-radius: 50%;
   background: rgba(83, 107, 236, 0.5);
 }
+.facebook:hover {
+  background: rgba(83, 107, 236, 0.2);
+}
+.instagram:hover {
+  background: rgba(83, 107, 236, 0.2);
+}
+.whatsup:hover {
+  background: rgba(83, 107, 236, 0.2);
+}
 #faceIcon,
 #instIcon,
 #whatsIcon {
